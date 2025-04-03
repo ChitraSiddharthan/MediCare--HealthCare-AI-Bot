@@ -4,7 +4,8 @@
 
 **MediGuide** is a conversational AI health assistant demo built with Python, Gradio, and powered by Google's Gemini language model. It aims to provide general health information, track user-mentioned health data (like vital signs and symptoms), visualize trends, and generate health summaries *for informational purposes only*.
 
-![MediGuide Interaction Cycle](https://github.com/user-attachments/assets/3c05a473-1fd1-45a8-831d-c6a21cb5fd92)
+![MediGuide Interaction Cycle](https://github.com/user-attachments/assets/b91f704b-d80e-44d7-9954-4d28f127a120)
+
 
 
 ---
